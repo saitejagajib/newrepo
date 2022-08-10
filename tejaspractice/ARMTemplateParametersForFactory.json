@@ -4,6 +4,15 @@
 	"parameters": {
 		"factoryName": {
 			"value": "tejaspractice"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureSQL_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
 		}
 	}
 }
